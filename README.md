@@ -13,7 +13,7 @@ Não deixe de usar nossas dicas de escrita de README de projetos, e deixe sua cr
 -->
 ## Projeto 
 
-Projeto desenvolvido no módulo de fundamentros do curso da Trybe, onde foi implementado várias funções para atender aos requisitos propostos e garantir que todas as funções passem nos testes unitários.
+Projeto desenvolvido no módulo de fundamentos do curso da Trybe, onde foi implementado várias funções para atender aos requisitos propostos e garantir que todas as funções passem nos testes unitários.
 
 
 ## Tecnologias
